@@ -2,11 +2,12 @@ project:
   type: website
 
 website:
-  title: "Jillian W. Reynolds"
+  title: 
+    "Jillian W. Reynolds"
   navbar:
     left:
-      - text: "About"
-        href: about.qmd
+      - text: "Jillian W. Reynolds"
+        href: index.qmd
       - text: "Research"
         href: research-interests.qmd
       - text: "Papers"
@@ -15,6 +16,7 @@ website:
         href: experiences.qmd
       - text: "Skills"
         href: skills.qmd
+    search: false
 
 format:
   html:

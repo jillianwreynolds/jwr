@@ -1,7 +1,51 @@
 ---
-title: "Experiences"
-draft: true
+title: "Jillian W. Reynolds"
+echo: false
+message: false
+warning: false
+about: 
+  template: trestles
+  image: JWR-tree.jpeg
+  image-shape: round
+  links: 
+    - href: www.linkedin.com/in/jillian-reynolds-
+      text: LinkedIn
 ---
+
+# Bio
+
+I am currently a second-year research master student in the Modern History and International Relations program at University of Groningen, Netherlands.
+
+------------------------------------------------------------------------
+
+I grew up in the San Francisco Bay Area. After graduating from high school where I completed the IB Diploma Programme, I attended UC San Diego in La Jolla, California. At UCSD, I majored in Political Science/International Relations and earned minors in History and Global Health.
+
+After graduating with my BA in 2023, I spent a year working as a paraeducator for a local public school district while completing the four-course R for Data Analytics certificate program through UC San Diego Division of Extended Studies.
+
+# Education
+
+**University of Groningen** \| Groningen, Netherlands
+
+MA in Modern History and International Relations \| Sep 2024 - present
+
+**University of California, San Diego** \| San Diego, CA
+
+BA in Political Science/International Relations \| Sep 2019 - June 2023
+
+```{r}
+
+packages <- c("tidyverse")
+
+installed <- packages %in% installed.packages()[, "Package"]
+if (any(!installed)) {
+  install.packages(packages[!installed])
+}
+
+purrr::walk(packages, library, character.only = TRUE)
+
+```
+
+# Experiences
 
 **Paraeducator, San Mateo-Foster City School District; San Mateo, CA — Sep. 2023 - June 2024**
 
@@ -26,3 +70,23 @@ I participated in a program for eligible high school students to work Election D
 **Adoptee Volunteer, Chunhui China Care Home, Beijing, China — July 2018**
 
 The summer before my senior year of high school, I went on a trip with two other girls from my adoption group. We volunteered with other Chinese American adoptees at the Chunhui China Care Home in Beijing, China. The children at the home came from around the country and were awaiting or recovering from medical treatment in Beijing. The trip was organized by [OneSky](https://onesky.org "https://onesky.org") and [China's Children International](https://chinaschildreninternational.org "https://chinaschildreninternational.org").
+
+# Skills
+
+## Statistical Programming
+
+-   R
+-   Quarto
+-   Tidyverse
+-   Statistical data analysis
+-   Data visualization with ggplot2
+
+## Languages
+
+-   Spanish
+-   German
+
+## Other
+
+-   Braille
+-   3-ring binder organization
