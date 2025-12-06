@@ -1,0 +1,21 @@
+---
+title: "Skills"
+---
+
+# Statistical Programming
+
+-   R
+-   Quarto
+-   Tidyverse
+-   Statistical data analysis
+-   Data visualization with ggplot2
+
+# Languages
+
+-   Spanish
+-   German
+
+# Other
+
+-   Braille
+-   3-ring binder organization

@@ -2,7 +2,7 @@
 title: "Papers"
 ---
 
-# For MA at University of Groningen
+# MA at University of Groningen
 
 Affective Polarization and Its Measurement in the United States\
 Spring 2025
@@ -28,7 +28,9 @@ Fall 2024
 Quantifying and Qualifying Contemporary Populist Support\
 Fall 2024
 
-# For BA at UC San Diego (selected papers)
+# BA at UC San Diego
+
+Here is a list of some of the papers I wrote:
 
 US Foreign Policy: Human Security as National Security\
 Spring 2023

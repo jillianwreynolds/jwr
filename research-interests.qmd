@@ -1,0 +1,19 @@
+---
+title: "Research"
+---
+
+My current research interests are:
+
+-   Affective polarization, also ideological and geographic polarization
+
+-   Public opinion
+
+-   Political behavior
+
+-   State comparative politics
+
+-   California politics
+
+For a better idea of what I have been working on, see [Papers](papers.qmd)
+
+![](state-climate-policies.png){fig-alt="A bar graph showing the number of partially enacted and enacted climate policies in each state"}
