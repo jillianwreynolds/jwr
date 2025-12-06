@@ -1,5 +1,5 @@
 ---
-title: "Jillian W. Reynolds"
+title: "Jillian Reynolds"
 echo: false
 message: false
 warning: false
@@ -10,15 +10,17 @@ about:
   links: 
     - href: www.linkedin.com/in/jillian-reynolds-
       text: LinkedIn
+    - href: https://github.com/jillianwreynolds
+      text: GitHub
 ---
 
 # Bio
 
-I am currently a second-year research master student in the Modern History and International Relations program at University of Groningen, Netherlands.
+I am currently a second-year research master student in the Modern History and International Relations program at University of Groningen, Netherlands. A research master is a two-year, research-focused program for students interested in pursuing a PhD or career in a research field.
 
 ------------------------------------------------------------------------
 
-I grew up in the San Francisco Bay Area. After graduating from high school where I completed the IB Diploma Programme, I attended UC San Diego in La Jolla, California. At UCSD, I majored in Political Science/International Relations and earned minors in History and Global Health.
+I grew up in the San Francisco Bay Area. After completing the IB Diploma Programme and graduating high school, I attended UC San Diego in La Jolla, California. At UCSD, I majored in Political Science/International Relations and earned minors in History and Global Health.
 
 After graduating with my BA in 2023, I spent a year working as a paraeducator for a local public school district while completing the four-course R for Data Analytics certificate program through UC San Diego Division of Extended Studies.
 
