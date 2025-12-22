@@ -1,0 +1,11 @@
+---
+title: "Interests"
+format: html
+---
+
+Some of my non-research related interest include:
+
+-   European history
+-   Sharks
+-   Police and legal procedurals
+-   California law
