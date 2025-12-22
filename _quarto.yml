@@ -1,21 +1,24 @@
 project:
   type: website
+  output-dir: docs
 
 website:
   title: 
     "Jillian W. Reynolds"
   navbar:
     left:
-      - text: "Jillian W. Reynolds"
+      - text: "Home"
         href: index.qmd
       - text: "Research"
-        href: research-interests.qmd
+        href: research.qmd
       - text: "Papers"
         href: papers.qmd
       - text: "Experiences"
         href: experiences.qmd
       - text: "Skills"
         href: skills.qmd
+      - text: "Interests"
+      - href: interests.qmd
     search: false
 
 format:
