@@ -1,0 +1,22 @@
+---
+title: "Managing ADHD with Apple and Siri"
+description: "How I use my Apple devices and Siri to keep track of time, appointments, assignments, etc."
+author: "Jillian W. Reynolds"
+date: 12/22/25
+categories:
+  - ADHD
+  - Technology
+
+---
+
+Growing up in Silicon Valley, Apple is everywhere. After owning various Apple products for almost 14 years and experimenting with the ecosystem and its capabilities, I have learned a variety of strategies that help me manage my ADHD. Three essentials are widgets, Siri, and Apple HomeKit.
+
+# Widgets
+
+
+# Siri
+
+
+# Apple HomeKit
+
+I use smart (dimmer) switches or smart plugs so that I can ask Siri to turn on or turn off my lights. I set automations for turning my lights off in case I accidentally fall asleep before turning them off myself. Currently, the automations are set for every hour, on the hour. Since I also have difficulty noticing or feeling time passing, I find that the lights turning off every hour (even if I turn them back on again) helps me mark the passing of time.
