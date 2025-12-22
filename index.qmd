@@ -20,7 +20,7 @@ I am currently a second-year research master student in the Modern History and I
 
 ------------------------------------------------------------------------
 
-I grew up in the San Francisco Bay Area. After completing the IB Diploma Programme and graduating high school, I attended UC San Diego in La Jolla, California. At UCSD, I majored in Political Science/International Relations and earned minors in History and Global Health.
+After completing the IB Diploma Programme and graduating high school, I attended UC San Diego in La Jolla, California. At UCSD, I majored in Political Science/International Relations and earned minors in History and Global Health.
 
 After earning my BA in 2023, I spent a year working as a paraeducator for a local public school district while completing the four-course R for Data Analytics certificate program through UC San Diego Division of Extended Studies.
 
@@ -51,7 +51,7 @@ purrr::walk(packages, library, character.only = TRUE)
 
 **Paraeducator, San Mateo-Foster City School District; San Mateo, CA — Sep. 2023 - June 2024**
 
-I assisted the lead teacher with the district's after school program. I supervised, as well as led, activities; helped with homework during homework time;
+I assisted the lead teacher with the district's after school program. I supervised and led activities. I also helped with homework during homework time. I also helped tidy and organize toys, books, and supplies around the classroom.
 
 **Part-Time Stock Associate, Under Armour; San Diego, CA — Aug. 2022 - Dec. 2022**
 
@@ -71,24 +71,36 @@ I participated in a program for eligible high school students to work Election D
 
 **Adoptee Volunteer, Chunhui China Care Home, Beijing, China — July 2018**
 
-The summer before my senior year of high school, I went on a trip with two other girls from my adoption group. We volunteered with other Chinese American adoptees at the Chunhui China Care Home in Beijing, China. The children at the home came from around the country and were awaiting or recovering from medical treatment in Beijing. The trip was organized by [OneSky](https://onesky.org "https://onesky.org") and [China's Children International](https://chinaschildreninternational.org "https://chinaschildreninternational.org").
+The summer before my senior year of high school, I went on a trip with two other girls from my adoption group. We volunteered with other Chinese American adoptees at the Chunhui China Care Home in Beijing. The children at the home came from around the country and were awaiting or recovering from medical treatment in Beijing. The trip was organized by [OneSky](https://onesky.org "https://onesky.org") and [China's Children International](https://chinaschildreninternational.org "https://chinaschildreninternational.org").
 
 # Skills
 
 ## Statistical Programming
 
 -   R
+
 -   Quarto
+
 -   Tidyverse
--   Statistical data analysis
+
+-   Statistical data analysis (with complex survey data)
+
 -   Data visualization with ggplot2
 
 ## Languages
 
 -   Spanish
+
 -   German
 
 ## Other
 
 -   Braille
--   3-ring binder organization
+
+-   Physical/digital file organization
+
+## Learning
+
+-   Survey data analysis methods
+
+-   LaTeX and BibTeX
