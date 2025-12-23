@@ -14,8 +14,10 @@ about:
       text: GitHub
 format: 
   html: default
-  pdf: 
-    css: styles.css
+  pdf:
+    pdf-engine: weasyprint
+css: cv.css
+css: styles.css
 ---
 
 ::: {.content-hidden when-format="pdf"}
@@ -33,11 +35,10 @@ After earning my BA in 2023, I spent a year working as a paraeducator for a loca
 
 ::: {.content-visible when-format="pdf"}
 
-\begin{center}
-jillianwreynolds@icloud.com \\
-\url{https://jillianwreynolds.github.io}
-\end{center}
-
+::: {.print-only .contact-block}
+jillianwreynolds\@icloud.com
+jillianwreynolds.github.io
+:::
 :::
 
 # Education
