@@ -14,10 +14,9 @@ about:
       text: GitHub
 format: 
   html: default
-  pdf:
-    pdf-engine: weasyprint
-css: cv.css
-css: styles.css
+  pdf: 
+    title: ""
+    geometry: margin=1in
 ---
 
 ::: {.content-hidden when-format="pdf"}
@@ -35,34 +34,24 @@ After earning my BA in 2023, I spent a year working as a paraeducator for a loca
 
 ::: {.content-visible when-format="pdf"}
 
-::: {.print-only .contact-block}
-jillianwreynolds\@icloud.com
+\begin{center}
+{\Large\bfseries Jillian W. Reynolds} \\
+\vspace{0.3em}
+jillianwreynolds\@icloud.com \\
 jillianwreynolds.github.io
-:::
+\end{center}
+
 :::
 
 # Education
 
 **University of Groningen** \| Groningen, Netherlands
 
-MA in Modern History and International Relations \| Sep 2024 - present
+MA in Modern History and International Relations \| Sep. 2024 - present
 
 **University of California, San Diego** \| San Diego, CA
 
-BA in Political Science/International Relations \| Sep 2019 - June 2023
-
-```{r}
-
-packages <- c("tidyverse")
-
-installed <- packages %in% installed.packages()[, "Package"]
-if (any(!installed)) {
-  install.packages(packages[!installed])
-}
-
-purrr::walk(packages, library, character.only = TRUE)
-
-```
+BA in Political Science/International Relations \| Sep. 2019 - June 2023
 
 # Experiences
 
@@ -118,7 +107,11 @@ The summer before my senior year of high school, I went on a trip with two other
 
 -   Braille
 
+::: {.content-hidden when-format="pdf"}
+
 -   Physical/digital file organization
+
+:::
 
 ## Current Learning
 
