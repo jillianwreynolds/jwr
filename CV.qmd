@@ -1,0 +1,18 @@
+---
+title: "Curriculum Vitae"
+author: "Jillian W. Reynolds"
+format: 
+  # pdf
+  docx:
+    reference-doc: reference-docx.docx
+---
+
+# Education
+
+**University of Groningen, Groningen, Netherlands — MA Modern History and International Relations, Sep. 2024 - present**
+
+A two-year research-intense master program
+
+**UC San Diego, La Jolla, CA — Bachelor of Arts in International Relations, June 2023**
+
+Minors in Global Health and History. 3.67 GPA. Provost Honors: Spring 2020, Fall 2021, Winter 2021, Spring 2021, Winter 2022, Spring 2022, Fall 2022, Winter 2023, Spring 2023.
