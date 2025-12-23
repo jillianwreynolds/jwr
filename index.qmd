@@ -12,10 +12,12 @@ about:
       text: LinkedIn
     - href: https://github.com/jillianwreynolds
       text: GitHub
+format: 
+  html: default
+  pdf: default
 ---
 
-::: {.content-hidden unless-format="pdf"}
-
+::: {.content-hidden when-format="pdf"}
 # Bio
 
 I am currently a second-year research master student in the Modern History and International Relations program at the University of Groningen in the Netherlands. A research master is a two-year, research-focused program for students interested in pursuing a PhD or career in research.
@@ -25,7 +27,12 @@ I am currently a second-year research master student in the Modern History and I
 After graduating high school and completing the IB Diploma Programme, I attended UC San Diego in La Jolla, California. At UCSD, I majored in Political Science/International Relations and earned minors in History and Global Health.
 
 After earning my BA in 2023, I spent a year working as a paraeducator for a local public school district while completing the four-course [R for Data Analytics](https://extendedstudies.ucsd.edu/certificates/r-for-data-analytics){.plain-link title="Go to https://extendedstudies.ucsd.edu/certificates/r-for-data-analytics"} certificate program through UC San Diego Division of Extended Studies.
+:::
 
+::: {.content-visible when-format="pdf"}
+jillianwreynolds\@icloud.com
+
+jillianwreynolds.github.io
 :::
 
 # Education
@@ -55,29 +62,35 @@ purrr::walk(packages, library, character.only = TRUE)
 
 **Paraeducator, San Mateo-Foster City School District; San Mateo, CA — Sep. 2023 - June 2024**
 
-I assisted the lead teacher with the district's after school program. I supervised and led activities. I also helped with homework during homework time. I also helped tidy and organize toys, books, and supplies around the classroom.
+Assisted the lead teacher with the district's after school program. Supervised and led activities. Also helped with homework during homework time. Helped tidy and organize toys, books, and supplies around the classroom.
 
 **Part-Time Stock Associate, Under Armour; San Diego, CA — Aug. 2022 - Dec. 2022**
 
-I processed shipments, completed replenishment, and fulfilled online and in-store pickup orders. I also assisted on sales floor.
+Processed shipments, completed replenishment, and fulfilled online and in-store pickup orders. Assisted on sales floor.
 
 **Swim Instructor, Noonan Family Swim School; Del Mar, CA — Aug. 2021 - Nov. 2021**
 
-I taught children 2 years and older. I devised lessons to progress students’ skills (based on learn-to-swim curriculum) and assessed whether students were ready to progress to the next skill level.
+Taught children 2 years and older. Devised lessons to progress students’ skills (based on learn-to-swim curriculum) and assessed whether students were ready to progress to the next skill level.
 
 **Runner, UC San Diego Health; San Diego, CA — Jan. 2021 - May 2021**
 
-I volunteered at the Petco Park Vaccination Superstation. I coordinated between charge nurse and vaccinators, stocked supply carts for vaccinators, prepared vaccination kits (alcohol wipe, bandaid, vaccination card, sticker), and passed out vaccination cards.
+Volunteered at the Petco Park Vaccination Superstation. Coordinated between charge nurse and vaccinators, stocked supply carts for vaccinators, prepared vaccination kits (alcohol wipe, bandaid, vaccination card, sticker), and passed out vaccination cards.
 
 **High School Student Poll Worker, San Mateo County Assessor-County Clerk- Recorder & Elections, San Mateo County, CA — Nov. 2018**
 
-I participated in a program for eligible high school students to work Election Day at a poll. I greeted voters, facilitated paperwork, and passed out stickers.
+Participated in a program for eligible high school students to work Election Day at a poll. Greeted voters, facilitated paperwork, and passed out stickers.
 
+::: {.content-hidden when-format="pdf"}
 **Adoptee Volunteer, Chunhui China Care Home, Beijing, China — July 2018**
 
 The summer before my senior year of high school, I went on a trip with two other girls from my adoption group. We volunteered with other Chinese American adoptees at the Chunhui China Care Home in Beijing. The children at the home came from around the country and were awaiting or recovering from medical treatment in Beijing. The trip was organized by [OneSky](https://onesky.org "https://onesky.org") and [China's Children International](https://chinaschildreninternational.org "https://chinaschildreninternational.org").
+:::
 
 # Skills
+
+## Certificates
+
+R for Data Analytics. UC San Diego Division of Extended Studies, La Jolla, CA — June 2024
 
 ## Statistical Programming
 
